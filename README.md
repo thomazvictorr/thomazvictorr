@@ -15,7 +15,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Atualme
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas no SENAC EAD  
 - 📚 Estudando Qualidade de Software (EBAC), Power BI e Lógica de Programação  
 - 🧪 Experiência prática como QA em um app para pessoas com diabetes tipo 2  
-- 👨‍💻 Interesses: Testes, APIs, Visualização de Dados, Ciência de Dados
+- 👨‍💻 Interesses: Testes, APIs, Visualização de Dados
 
 ---
 

@@ -44,7 +44,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Atualme
 ## 🔥 Streaks
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thomazvictorr&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=thomazvictorr&theme=tokyonight" />
 </div>
 
 ---

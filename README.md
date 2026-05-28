@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre mim
 
-Atuo como **QA Analyst Jr.** na Spread Tecnologia, com experiência em testes funcionais, exploratórios e regressivos em ambientes ágeis. Tenho foco em **automação de testes** e **integração contínua**, buscando antecipar falhas e elevar a qualidade das entregas.
+Atuo como **QA Analyst Jr.**, com experiência em testes funcionais, exploratórios e regressivos em ambientes ágeis. Tenho foco em **automação de testes** e **integração contínua**, buscando antecipar falhas e elevar a qualidade das entregas.
 
 - 🔭 Atualmente construindo projetos de automação com **Robot Framework** e **Playwright**
 - 🌱 Aprofundando conhecimentos em **CI/CD com GitHub Actions**

@@ -1,56 +1,72 @@
-<h1 align="center">Olá! Eu sou o Thomaz Victor 👋</h1>
+<h1 align="center">Olá! Eu sou o Thomáz Victor 👋</h1>
 
 <p align="center">
-  🎓 Cursando Análise e Desenvolvimento de Sistemas<br>
-  🧪 Qualidade de Software | Testes Funcionais | Testes de API | Automação<br>
-  ⚙️ Foco em automação de testes e integração contínua (CI)
+  🧪 QA Analyst Jr. • Automação de Testes • CI/CD<br>
+  🎓 Cursando Análise e Desenvolvimento de Sistemas — SENAC<br>
+  📍 Santo André, SP
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thomazvictorr">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:thomazvictorr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou apaixonado por tecnologia e por garantir a qualidade de produtos digitais. Atualmente, atuo e evoluo na área de **Quality Assurance**, com foco em **testes funcionais, testes de API e automação de testes**, participando de validações de fluxos críticos em ambientes ágeis.
+Atuo como **QA Analyst Jr.** na Spread Tecnologia, com experiência em testes funcionais, exploratórios e regressivos em ambientes ágeis. Tenho foco em **automação de testes** e **integração contínua**, buscando antecipar falhas e elevar a qualidade das entregas.
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** no **SENAC EAD**  
-🧪 Experiência prática como **QA**, atuando em testes manuais e automatizados em um aplicativo voltado para pessoas com **diabetes tipo 2**  
-⚙️ Atuação com **automação de testes**, **integração contínua (CI)** e apoio à qualidade em entregas de negócio
+- 🔭 Atualmente construindo projetos de automação com **Robot Framework** e **Playwright**
+- 🌱 Aprofundando conhecimentos em **CI/CD com GitHub Actions**
+- 💡 Apaixonado por Shift Left Testing e qualidade como cultura, não como etapa
+
+---
+
+## 🗂️ Projetos em Destaque
+
+| Projeto | Descrição | Stack | CI |
+|---------|-----------|-------|----|
+| [api-automation-serverest](https://github.com/thomazvictorr/api-automation-serverest) | Automação de testes de API REST com cenários positivos e negativos, massa de dados isolada por execução e relatório publicado via GitHub Pages | Robot Framework · Python | ✅ GitHub Actions |
+| [playwright-mark](https://github.com/thomazvictorr/playwright-mark) | Automação E2E de gerenciador de tarefas com Page Object Model, helpers de API para setup/teardown e relatório publicado via GitHub Pages | Playwright · TypeScript | ✅ GitHub Actions |
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🧪 Qualidade & Automação
-![Cypress](https://img.shields.io/badge/Cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+### 🧪 Uso no dia a dia
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 💻 Linguagens & Base Técnica
+### 💻 Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Outros
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 📚 Tenho base / já estudei
+![Cypress](https://img.shields.io/badge/Cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomazvictorr&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomazvictorr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomazvictorr&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
 
-## 🔥 Streaks
+## 🔥 Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=thomazvictorr&theme=tokyonight"/>
@@ -58,12 +74,6 @@ Sou apaixonado por tecnologia e por garantir a qualidade de produtos digitais. A
 
 ---
 
-## 📫 Contato
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/thomazvictorr)
-- 📸 [Instagram](https://www.instagram.com/thomazvictorr)
-
----
-
-⭐ Obrigado por visitar meu perfil!  
-📌 Fique à vontade para explorar meus projetos ou trocar ideias sobre QA, testes e automação.
+<p align="center">
+  ⭐ Fique à vontade para explorar os projetos ou trocar ideias sobre QA e automação!
+</p>

@@ -33,6 +33,7 @@ Atuo como **QA Analyst Jr.**, com experiência em testes funcionais, exploratór
 |---------|-----------|-------|----|
 | [api-automation-serverest](https://github.com/thomazvictorr/api-automation-serverest) | Automação de testes de API REST com cenários positivos e negativos, massa de dados isolada por execução e relatório publicado via GitHub Pages | Robot Framework · Python | ✅ GitHub Actions |
 | [playwright-mark](https://github.com/thomazvictorr/playwright-mark) | Automação E2E de gerenciador de tarefas com Page Object Model, helpers de API para setup/teardown e relatório publicado via GitHub Pages | Playwright · TypeScript | ✅ GitHub Actions |
+| [appium-apidemos](https://github.com/thomazvictorr/appium-apidemos) | Automação de testes mobile com navegação, scroll, gestos e assertions no app ApiDemos para Android | Appium · Java | ✅ GitHub Actions |
 
 ---
 

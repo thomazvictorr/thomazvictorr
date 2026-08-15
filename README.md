@@ -3,6 +3,7 @@
 <p align="center">
   🧪 QA Analyst Jr. • Automação de Testes • CI/CD<br>
   🎓 Cursando Análise e Desenvolvimento de Sistemas — SENAC<br>
+  📜 ISTQB CTFL 4.0 Certified<br>
   📍 Santo André, SP
 </p>
 
@@ -19,7 +20,7 @@
 
 ## 🚀 Sobre mim
 
-Atuo como **QA Analyst Jr.**, com experiência em testes funcionais, exploratórios e regressivos em ambientes ágeis. Tenho foco em **automação de testes** e **integração contínua**, buscando antecipar falhas e elevar a qualidade das entregas.
+Atuo como **QA Analyst Jr.**, certificado **ISTQB CTFL 4.0**, com experiência em testes funcionais, exploratórios e regressivos em ambientes ágeis. Tenho foco em **automação de testes** e **integração contínua**, buscando antecipar falhas e elevar a qualidade das entregas.
 
 - 🔭 Atualmente construindo projetos de automação com **Robot Framework** e **Playwright**
 - 🌱 Aprofundando conhecimentos em **CI/CD com GitHub Actions**
@@ -55,6 +56,12 @@ Atuo como **QA Analyst Jr.**, com experiência em testes funcionais, exploratór
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## 🎓 Certificações
+
+- **ISTQB CTFL 4.0** — Certified Tester Foundation Level
 
 ---
 
